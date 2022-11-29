@@ -1,5 +1,5 @@
 # IMAGD
-A repository created for MAGD 100 that contains assignments made for the class
+A repository created for MAGD 150 that contains assignments made for the class
 
 
 ### This repository contains the following
